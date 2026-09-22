@@ -43,4 +43,4 @@ Architected and deployed a production-grade AWS serverless application infrastru
 ---
 
 ### 📈 GitHub Stats
-![Chukwuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChukaOkeke&show_icons=true&theme=radial)
+![Chukwuka's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ChukaOkeke&show_icons=true&theme=dark)
