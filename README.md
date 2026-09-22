@@ -21,7 +21,7 @@
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Cloud Infrastructure** | Amazon Web Services (AWS) |
+| **Cloud** | Amazon Web Services (AWS) |
 | **Infrastructure as Code** | Terraform |
 | **Containers & Orchestration** | Kubernetes (EKS), Karpenter, Helm, Docker |
 | **CI/CD & GitOps** | GitHub Actions, ArgoCD |
