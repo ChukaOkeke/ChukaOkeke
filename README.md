@@ -35,7 +35,7 @@
 ### 🚀 Featured Production Projects
 
 #### 1. 🛡️ [Zero-Trust Enterprise EKS Platform](https://github.com/ChukaOkeke/restaurant-api-eks) *(Click to view Repo)*
-Engineered a production-grade EKS platform using GitOps (ArgoCD/Helm) and Karpenter, featuring a Zero-Trust security model (EKS Pod Identities, External Secrets, keyless OIDC, WAF), a 4-stage automated DevSecOps pipeline (Checkov, Bandit, Snyk, Trivy, Nuclei), and full-stack observability (OpenTelemetry (ADOT), Prometheus, Grafana, CloudWatch Logs, and AWS X-Ray)
+Engineered a production-grade EKS platform using GitOps (ArgoCD/Helm) and Karpenter, featuring a Zero-Trust security model (EKS Pod Identities, External Secrets, keyless OIDC, WAF), a 4-stage automated DevSecOps pipeline (Checkov, Bandit, Snyk, Trivy, Nuclei), and full-stack observability (OpenTelemetry (ADOT), Prometheus, Grafana, CloudWatch Logs, and AWS X-Ray).
 
 #### 2. ⚡ [Secure Production Serverless Architecture](https://github.com/ChukaOkeke/restaurant-api-serverless) *(Click to view Repo)*
-Architected and deployed a production-grade AWS serverless application infrastructure (Lambda, API Gateway, Aurora Serverless v2, SQS, CloudFront, S3) using modular Terraform, fortified inside a Zero-Trust GitHub Actions pipeline using keyless OIDC auth, WAF, Secrets Manager, and automated security guardrails (Checkov, Bandit, Snyk)
+Architected and deployed a production-grade AWS serverless application infrastructure (Lambda, API Gateway, Aurora Serverless v2, SQS, CloudFront, S3) using modular Terraform, fortified inside a Zero-Trust GitHub Actions pipeline using keyless OIDC auth, WAF, Secrets Manager, and automated security guardrails (Checkov, Bandit, Snyk).
