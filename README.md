@@ -39,8 +39,3 @@ Engineered a production-grade EKS platform using GitOps (ArgoCD/Helm) and Karpen
 
 #### 2. ⚡ [Secure Production Serverless Architecture](https://github.com/ChukaOkeke/restaurant-api-serverless) *(Click to view Repo)*
 Architected and deployed a production-grade AWS serverless application infrastructure (Lambda, API Gateway, Aurora Serverless v2, SQS, CloudFront, S3) using modular Terraform, fortified inside a Zero-Trust GitHub Actions pipeline using keyless OIDC auth, WAF, Secrets Manager, and automated security guardrails (Checkov, Bandit, Snyk)
-
----
-
-### 📈 GitHub Stats
-![Chukwuka's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ChukaOkeke&show_icons=true&theme=dark)
