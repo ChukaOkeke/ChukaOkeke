@@ -7,7 +7,6 @@
 ### 🌐 Connect & Media
 - **LinkedIn:** [linkedin.com/in/chukwuka-okeke](https://linkedin.com/in/chukwuka-okeke)
 - **Technical Writing:** [Medium / Articles](https://medium.com/@chukaokeke)
-- **Location:** Nigeria *(Remote-First)*
 
 ---
 
