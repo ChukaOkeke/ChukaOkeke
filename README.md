@@ -10,13 +10,6 @@
 
 ---
 
-### 📜 Verified Certifications
-- ☸️ **Certified Kubernetes Administrator (CKA)** — *Linux Foundation*
-- ☁️ **AWS Certified Solutions Architect – Associate (SAA-C03)** — *Amazon Web Services*
-- 📜 **AWS Certified Cloud Practitioner (CLF-C02)** — *Amazon Web Services*
-
----
-
 ### 🛠️ Core Technical Stack
 
 | Domain | Technologies & Tools |
