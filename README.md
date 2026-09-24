@@ -1,6 +1,6 @@
 # Hi, I'm Chukwuka Okeke 👋
 
-**Cloud DevOps Engineer** experienced in architecting, implementing, and operating cloud-native platforms. Specializing in Zero-Trust AWS architecture, Kubernetes orchestration (EKS), Infrastructure-as-Code (Terraform), GitOps (ArgoCD), full-stack observability, and automated pipeline security.
+**Cloud DevOps Engineer** experienced in architecting, implementing, and operating cloud-native platforms. Specializing in Zero-Trust AWS architecture, Kubernetes orchestration (EKS), Infrastructure-as-Code (Terraform), secure automated pipelines (GitHub Actions), GitOps (ArgoCD), and full-stack observability.
 
 ---
 
